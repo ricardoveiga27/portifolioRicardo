@@ -1,0 +1,27 @@
+header{
+    background-color: black;
+    color: cornflowerblue;
+    height: 10vh;
+}
+
+#banner{
+    height: 90vh;
+}
+
+.nav-link{
+    color: white
+}
+
+#banner .container .row{
+    height: 90vh;
+}
+
+#about{
+    background-color: grey;
+    height: 100vh;
+    color: white;
+}
+
+#about .container .row{
+    height: 100vh;
+}
